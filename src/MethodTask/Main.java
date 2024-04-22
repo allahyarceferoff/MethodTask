@@ -1,3 +1,4 @@
+package MethodTask;
 
 import java.util.Scanner;
 
@@ -53,6 +54,7 @@ public class Main {
         }
 
     }
+
 
     public static void calculate(double num1, double num2) {
 
